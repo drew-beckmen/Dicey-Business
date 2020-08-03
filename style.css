@@ -1,0 +1,23 @@
+.btn {
+    margin: 10px;
+}
+
+div#buttons {
+    background-color: lightskyblue;
+    padding: 50px;
+    border-style: solid; 
+}
+
+div#dice-container {
+    margin-top: 10px;
+}
+
+.die {
+    width: 10px; 
+    margin-right: 2px;
+    height: 10px; 
+    padding: 75px; 
+    display: inline-grid; 
+    text-align: center;
+    border-style: solid; 
+}
